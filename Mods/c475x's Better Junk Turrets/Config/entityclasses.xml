@@ -1,0 +1,15 @@
+<configs>
+	
+	<append xpath="/entity_classes/entity_class['TurretJunk']">
+		<property name="YawRange" value="360"/>
+		<property name="PitchRange" value="90"/>
+		<property name="MaxDistance" value="60"/>
+		<property name="EntityDamage" value="75"/>
+		<property name="RaySpread" value=".25"/>
+		<property name="MaxOwnerDistance" value="100"/>
+	</append>
+
+</configs>
+
+
+	

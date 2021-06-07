@@ -1,0 +1,23 @@
+<config>
+	
+	<append xpath="/progression/perks/perk[@name='perkTurrets']">
+	
+		<effect_group name="Holding a turret">
+			<requirement name="HoldingItemHasTags" tags="perkTurrets"/>
+				<passive_effect name="RoundsPerMinute" operation="perc_add" level="1,2,3,4,5" value=".3,.6,.9,1.2,2" tags="deployed" invert_tag_check="true"/>
+				<passive_effect name="ReloadSpeedMultiplier" operation="perc_add" level="4,5" value="0.1,0.2" tags="deployed" invert_tag_check="true"/>
+				<passive_effect name="MagazineSize" operation="base_add" level="1,5" value="50,250"/>
+		</effect_group>
+
+		<effect_group name="General and deployed turrets">
+			<passive_effect name="EntityDamage" operation="perc_add" level="1,2,3,4,5" value=".1,.2,.3,.4,.4" tags="perkTurrets,deployed"/>
+			<passive_effect name="RoundsPerMinute" operation="perc_add" level="1,2,3,4,5" value=".3,.7,1.1,1.5,1.5" tags="perkTurrets,deployed"/>
+
+			<passive_effect name="JunkTurretActiveCount" operation="base_set" value="0"/>
+			<passive_effect name="JunkTurretActiveCount" operation="base_add" level="1,2,3,4,5" value="1,2,3,4,4"/>
+			<passive_effect name="JunkTurretActiveRange" operation="base_set" level="0,1,2,3,4,5" value="10,20,30,40,50,60"/>
+		</effect_group>
+	
+	</append>
+
+</config>

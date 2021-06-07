@@ -1,0 +1,7 @@
+<Ragsy_Bicycle_Parts>
+
+	<append xpath="/lootcontainers/lootcontainer[@id='66']">
+	<item group="bicycleParts" prob="0.21"/>
+	</append>
+	
+</Ragsy_Bicycle_Parts>

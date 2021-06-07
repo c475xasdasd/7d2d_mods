@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="NearDeathDebuff Nerf" />
+		<Description value="Nerfs NearDeathDebuff from 1 hour to 5 mintues" />
+		<Author value="c4785x" />
+		<Version value="1.0" />
+	</ModInfo>
+</xml>

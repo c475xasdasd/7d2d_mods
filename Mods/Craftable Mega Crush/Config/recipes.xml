@@ -1,0 +1,12 @@
+<modpreppers>
+
+  <append xpath="recipes">
+
+    <recipe name="drinkCanMegaCrush" count="1" craft_area="campfire" craft_tool="toolCookingPot" tags="perkMasterChef,learnable">
+      <ingredient name="resourceCropCoffeeBeans" count="3"/>
+      <ingredient name="drinkJarBoiledWater" count="1"/>      
+    </recipe>
+  </append>
+
+
+</modpreppers>

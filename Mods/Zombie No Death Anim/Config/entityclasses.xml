@@ -1,0 +1,28 @@
+<configs>
+
+	<!-- Set the Zombie HasDeathAnim to false - Off. -->
+	<set xpath="/entity_classes/entity_class[@name='zombieTemplateMale']/property[@name='HasDeathAnim' 			and @value='true']/@value">false</set>
+	<set xpath="/entity_classes/entity_class[@name='zombieBoe']/property[@name='HasDeathAnim' 			and @value='true']/@value">false</set>
+	<set xpath="/entity_classes/entity_class[@name='zombieFootballPlayer']/property[@name='HasDeathAnim' 			and @value='true']/@value">false</set>
+	<set xpath="/entity_classes/entity_class[@name='zombieFemaleFat']/property[@name='HasDeathAnim' 			and @value='true']/@value">false</set>
+	<set xpath="/entity_classes/entity_class[@name='zombieJoe']/property[@name='HasDeathAnim' 			and @value='true']/@value">false</set>
+	<set xpath="/entity_classes/entity_class[@name='zombieMoe']/property[@name='HasDeathAnim' 			and @value='true']/@value">false</set>
+	<set xpath="/entity_classes/entity_class[@name='zombieArlene']/property[@name='HasDeathAnim' 			and @value='true']/@value">false</set>
+	<set xpath="/entity_classes/entity_class[@name='zombieScreamer']/property[@name='HasDeathAnim' 			and @value='true']/@value">false</set>
+	<set xpath="/entity_classes/entity_class[@name='zombieDarlene']/property[@name='HasDeathAnim' 			and @value='true']/@value">false</set>
+	<set xpath="/entity_classes/entity_class[@name='zombieMarlene']/property[@name='HasDeathAnim' 			and @value='true']/@value">false</set>
+	<set xpath="/entity_classes/entity_class[@name='zombieYo']/property[@name='HasDeathAnim' 			and @value='true']/@value">false</set>
+	<set xpath="/entity_classes/entity_class[@name='zombieSnow']/property[@name='HasDeathAnim' 			and @value='true']/@value">false</set>
+	<set xpath="/entity_classes/entity_class[@name='zombieSpider']/property[@name='HasDeathAnim' 			and @value='true']/@value">false</set>
+	<set xpath="/entity_classes/entity_class[@name='zombieNurse']/property[@name='HasDeathAnim' 			and @value='true']/@value">false</set>
+	<set xpath="/entity_classes/entity_class[@name='zombieFatHawaiian']/property[@name='HasDeathAnim' 			and @value='true']/@value">false</set>
+	<set xpath="/entity_classes/entity_class[@name='zombieFatCop']/property[@name='HasDeathAnim' 			and @value='true']/@value">false</set>
+	<set xpath="/entity_classes/entity_class[@name='zombieUtilityWorker']/property[@name='HasDeathAnim' 			and @value='true']/@value">false</set>
+	<set xpath="/entity_classes/entity_class[@name='zombieSoldier']/property[@name='HasDeathAnim' 			and @value='true']/@value">false</set>
+	<set xpath="/entity_classes/entity_class[@name='zombieCheerleader']/property[@name='HasDeathAnim' 			and @value='true']/@value">false</set>
+	
+	<!--Animals -->
+	<set xpath="/entity_classes/entity_class[@name='animalBear']/property[@name='HasDeathAnim' 			and @value='true']/@value">false</set>
+	<set xpath="/entity_classes/entity_class[@name='animalWolf']/property[@name='HasDeathAnim' 			and @value='true']/@value">false</set>
+		
+</configs>

@@ -1,0 +1,38 @@
+<c475x>
+
+<!--
+	<item group="cannedfood" count="3,5" prob="0.2"/>
+	<item group="groupWeaponsScaled" prob="0.2"/>
+	<item group="groupAmmoRegular" count="2" prob="0.2"/>
+	<item group="rareBooks" prob="0.2"/>
+	<item group="airdropMedicine" count="1,4" prob="0.2"/>
+	<item group="groupArmorScaled" prob="0.2"/>
+-->
+
+	<!-- supply crate -->
+	<append xpath="/lootcontainers/lootcontainer[@id='34']">
+	<item group="tools" prob=".3"/>
+	<item group="bicycleParts" loot_prob_template="probTemplate0.5to1.0"/>
+	<item group="minibikeParts" loot_prob_template="probTemplate0.5to1.0"/>
+    <item group="motorcycleParts" loot_prob_template="probTemplate1.0"/>
+	<item group="4x4Parts" loot_prob_template="probTemplate0.75"/>
+	<item group="gyroCopterParts" loot_prob_template="probTemplate0.5"/>
+
+	<item name="casinoCoin" count="0,3"/>
+
+	<item group="groupApparelPants" prob=".15"/>
+	<item group="groupApparelShirtLong" prob=".15"/>
+	<item group="groupApparelTankTopTShirt" prob=".15"/>
+	<item group="groupApparelCoats" prob=".05"/>
+	<item group="groupApparelHats" prob=".05"/>
+	<item group="groupApparelBootsShoes" prob=".075"/>
+
+	<item group="groupArmorT1_Light" prob=".05"/>
+
+	<item group="groupAmmoRegularGunslinger" prob=".05"/>
+	<item group="groupAmmoRegular" prob=".05"/>
+	</append>
+
+ <set xpath="/lootcontainers/lootcontainer[@id='34']/@count">5</set>
+
+</c475x>

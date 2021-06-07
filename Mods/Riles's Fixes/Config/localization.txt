@@ -1,0 +1,322 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,English
+steelBarsVariantHelper,blocks,Variant,,,Steel Bars
+ironBarsVariantHelper,blocks,Variant,,,Iron Bars
+woodBarsVariantHelper,blocks,Variant,,,Wood Bars
+steelBarsCentered,blocks,Block,,,Steel Bars Centered
+steelBars,blocks,Block,,,Steel Bars
+pouredConcreteWedgeNarrowHigh,blocks,Block,,,Wet Concrete Wedge Narrow High
+pouredConcreteWedgeNarrowMid,blocks,Block,,,Wet Concrete Wedge Narrow Mid
+pouredConcreteWedgeNarrowLow,blocks,Block,,,Wet Concrete Wedge Narrow Low
+pouredConcreteWedgeNarrowTip,blocks,Block,,,Wet Concrete Wedge Narrow Tip
+armorMilitarySetParts,items,Clothes,,,Parts of Military Armor
+armorSteelSetParts,items,Clothes,,,Parts of Steel Armor
+gunBowWoodenParts,items,GunBow,,,Parts of Bow / Crossbow
+gunJunkTurretParts,items,GunJT,,,Parts of Junk Turret
+gunAk47Parts,items,GunMG,,,Parts of Machine Gun
+gunPistolParts,items,GunPistol,,,Parts of Handgun
+gunHuntingRifleParts,items,GunRifle,,,Parts of Rifle
+gunRocketLauncherParts,items,GunRocket,,,Parts of Rocket Launcher
+gunDoubleBarrelShotgunParts,items,GunShotgun,,,Parts of Shotgun
+meleeClubBaseballBatParts,items,Melee,,,Parts of Baseball Bat
+meleeKnucklesSteelParts,items,Melee,,,Parts of Steel Knuckles
+meleeStunBatonParts,items,Melee,,,Parts of Stun Baton
+meleeThrownSpearSteelParts,items,Melee,,,Parts of Steel Spear
+meleeToolKnifeMacheteParts,items,Melee,,,Parts of Machete
+meleeToolSledgehammerSteelParts,items,Melee,,,Parts of Steel Sledgehammer
+meleeToolAllSteelParts,items,Tool,,,Parts of Steel Tool
+meleeToolChainsawParts,items,Tool,,,Parts of Motor Tool
+resourceCoalBundle,items,Item,,,Coal (Stack of 6000)
+resourceGunPowderBundle,items,Item,,,Gunpowder (Stack of 1000)
+resourceLeadBundle,items,Item,,,Lead (Stack of 6000)
+resourceLockPickBundle,items,Item,,,Lockpicks (Stack of 50)
+resourceOilShaleBundle,items,Item,,,Oil Shale (Stack of 6000)
+resourcePotassiumNitratePowderBundle,items,Item,,,Nitrate Powder (Stack of 6000)
+resourceRockSmallBundle,items,Item,,,Small Stone (Stack of 6000)
+resourceScrapIronBundle,items,Item,,,Iron (Stack of 6000)
+resourceWoodBundle,items,Item,,,Wood (Stack of 6000)
+ammoGasCanBundle,items,Item,,,Gas Cans (Stack of 10000)
+steelWedgeTipHalf1,blocks,Block,,,Steel Wedge Tip Half 1
+rConcreteWedgeTipHalf1,blocks,Block,,,R Concrete Wedge Tip Half 1
+pouredRConcreteWedgeTipHalf1,blocks,Block,,,Wet R Concrete Wedge Tip Half 1
+concreteWedgeTipHalf1,blocks,Block,,,Concrete Wedge Tip Half 1
+pouredConcreteWedgeTipHalf1,blocks,Block,,,Wet ConcreteWedge Tip Half 1
+cobblestoneWedgeTipHalf1,blocks,Block,,,Cobblestone Wedge Tip Half 1
+rwoodWedgeTipHalf1,blocks,Block,,,R Wood Wedge Tip Half 1
+steelWedgeTipHalf2,blocks,Block,,,Steel Wedge Tip Half 2
+rConcreteWedgeTipHalf2,blocks,Block,,,R Concrete Wedge Tip Half 2
+pouredRConcreteWedgeTipHalf2,blocks,Block,,,Wet R Concrete Wedge Tip Half 2
+concreteWedgeTipHalf2,blocks,Block,,,Concrete Wedge Tip Half 2
+pouredConcreteWedgeTipHalf2,blocks,Block,,,Wet ConcreteWedge Tip Half 2
+cobblestoneWedgeTipHalf2,blocks,Block,,,Cobblestone Wedge Tip Half 2
+rwoodWedgeTipHalf2,blocks,Block,,,R Wood Wedge Tip Half 2
+steelRampInclineHalf1,blocks,Block,,,Steel Ramp Incline Half 1
+rConcreteRampInclineHalf1,blocks,Block,,,R Concrete Ramp Incline Half 1
+pouredRConcreteRampInclineHalf1,blocks,Block,,,Wet R Concrete Ramp Incline Half 1
+concreteRampInclineHalf1,blocks,Block,,,Concrete Ramp Incline Half 1
+pouredConcreteRampInclineHalf1,blocks,Block,,,Wet Concrete Ramp Incline Half 1
+cobblestoneRampInclineHalf1,blocks,Block,,,Cobblestone Ramp Incline Half 1
+rwoodRampInclineHalf1,blocks,Block,,,R Wood Ramp Incline Half 1
+steelRampInclineHalf2,blocks,Block,,,Steel Ramp Incline Half 2
+rConcreteRampInclineHalf2,blocks,Block,,,R Concrete Ramp Incline Half 2
+pouredRConcreteRampInclineHalf2,blocks,Block,,,Wet R Concrete Ramp Incline Half 2
+concreteRampInclineHalf2,blocks,Block,,,Concrete Ramp Incline Half 2
+pouredConcreteRampInclineHalf2,blocks,Block,,,Wet Concrete Ramp Incline Half 2
+cobblestoneRampInclineHalf2,blocks,Block,,,Cobblestone Ramp Incline Half 2
+rwoodRampInclineHalf2,blocks,Block,,,R Wood Ramp Incline Half 2
+steelRampInclineFillerHalf1,blocks,Block,,,Steel Ramp Incline Filler Half 1
+rConcreteRampInclineFillerHalf1,blocks,Block,,,R Concrete Ramp Incline Filler Half 1
+pouredRConcreteRampInclineFillerHalf1,blocks,Block,,,Wet R Concrete Ramp Incline Filler Half 1
+concreteRampInclineFillerHalf1,blocks,Block,,,Concrete Ramp Incline Filler Half 1
+pouredConcreteRampInclineFillerHalf1,blocks,Block,,,Wet Concrete Ramp Incline Filler Half 1
+cobblestoneRampInclineFillerHalf1,blocks,Block,,,Cobblestone Ramp Incline Filler Half 1
+rwoodRampInclineFillerHalf1,blocks,Block,,,R Wood Ramp Incline Filler Half 1
+steelRampInclineFillerHalf2,blocks,Block,,,Steel Ramp Incline Filler Half 2
+rConcreteRampInclineFillerHalf2,blocks,Block,,,R Concrete Ramp Incline Filler Half 2
+pouredRConcreteRampInclineFillerHalf2,blocks,Block,,,Wet R Concrete Ramp Incline Filler Half 2
+concreteRampInclineFillerHalf2,blocks,Block,,,Concrete Ramp Incline Filler Half 2
+pouredConcreteRampInclineFillerHalf2,blocks,Block,,,Wet Concrete Ramp Incline Filler Half 2
+cobblestoneRampInclineFillerHalf2,blocks,Block,,,Cobblestone Ramp Incline Filler Half 2
+rwoodRampInclineFillerHalf2,blocks,Block,,,R Wood Ramp Incline Filler Half 2
+steelInclineTipHalf1,blocks,Block,,,Steel Incline Tip Half 1
+rConcreteInclineTipHalf1,blocks,Block,,,R Concrete Incline Tip Half 1
+pouredRConcreteInclineTipHalf1,blocks,Block,,,Wet R Concrete Incline Tip Half 1
+concreteInclineTipHalf1,blocks,Block,,,Concrete Incline Tip Half 1
+pouredConcreteInclineTipHalf1,blocks,Block,,,Wet Concrete Incline Tip Half 1
+cobblestoneInclineTipHalf1,blocks,Block,,,Cobblestone Incline Tip Half 1
+rwoodInclineTipHalf1,blocks,Block,,,R Wood Incline Tip Half 1
+steelInclineTipHalf2,blocks,Block,,,Steel Incline Tip Half 2
+rConcreteInclineTipHalf2,blocks,Block,,,R Concrete Incline Tip Half 2
+pouredRConcreteInclineTipHalf2,blocks,Block,,,Wet R Concrete Incline Tip Half 2
+concreteInclineTipHalf2,blocks,Block,,,Concrete Incline Tip Half 2
+pouredConcreteInclineTipHalf2,blocks,Block,,,Wet Concrete Incline Tip Half 2
+cobblestoneInclineTipHalf2,blocks,Block,,,Cobblestone Incline Tip Half 2
+rwoodInclineTipHalf2,blocks,Block,,,R Wood Incline Tip Half 2
+steelGableInvertedSteepHalf,blocks,Block,,,Steel Gable Inverted Steep Half
+rConcreteGableInvertedSteepHalf,blocks,Block,,,R Concrete Gable Inverted Steep Half
+pouredRConcreteGableInvertedSteepHalf,blocks,Block,,,Wet R Concrete Gable Inverted Steep Half
+concreteGableInvertedSteepHalf,blocks,Block,,,Concrete Gable Inverted Steep Half
+pouredConcreteGableInvertedSteepHalf,blocks,Block,,,Wet Concrete Gable Inverted Steep Half
+cobblestoneGableInvertedSteepHalf,blocks,Block,,,Cobblestone Gable Inverted Steep Half
+rwoodGableInvertedSteepHalf,blocks,Block,,,R Wood Gable Inverted Steep Half
+steelGable,blocks,Block,,,Steel Gable
+rConcreteGable,blocks,Block,,,R Concrete Gable
+pouredRConcreteGable,blocks,Block,,,Wet R Concrete Gable
+concreteGable,blocks,Block,,,Concrete Gable
+pouredConcreteGable,blocks,Block,,,Wet Concrete Gable
+cobblestoneGable,blocks,Block,,,Cobblestone Gable
+rwoodGable,blocks,Block,,,R Wood Gable
+steelGable1m,blocks,Block,,,Steel Gable 1m
+rConcreteGable1m,blocks,Block,,,R Concrete Gable 1m
+pouredRConcreteGable1m,blocks,Block,,,Wet R Concrete Gable 1m
+pouredConcreteGable1m,blocks,Block,,,Wet Concrete Gable 1m
+cobblestoneGable1m,blocks,Block,,,Cobblestone Gable 1m
+rwoodGable1m,blocks,Block,,,R Wood Gable 1m
+steelGablehalf,blocks,Block,,,Steel Gable Half
+rConcreteGablehalf,blocks,Block,,,R Concrete Gable Half
+pouredRConcreteGablehalf,blocks,Block,,,Wet R Concrete Gable Half
+concreteGablehalf,blocks,Block,,,Concrete Gable Half
+pouredConcreteGablehalf,blocks,Block,,,Wet Concrete Gable Half
+cobblestoneGablehalf,blocks,Block,,,Cobblestone Gable Half
+rwoodGablehalf,blocks,Block,,,R Wood Gable Half
+steelGablequarterhalf,blocks,Block,,,Steel Gable 1/4 Half
+rConcreteGablequarterhalf,blocks,Block,,,R Concrete Gable 1/4 Half
+pouredRConcreteGablequarterhalf,blocks,Block,,,Wet R Concrete Gable 1/4 Half
+concreteGablequarterhalf,blocks,Block,,,Concrete Gable 1/4 Half
+pouredConcreteGablequarterhalf,blocks,Block,,,Wet Concrete Gable 1/4 Half
+cobblestoneGablequarterhalf,blocks,Block,,,Cobblestone Gable 1/4 Half
+rwoodGablequarterhalf,blocks,Block,,,R Wood Gable 1/4 Half
+steelGable1mhalf,blocks,Block,,,Steel Gable 1m Half
+rConcreteGable1mhalf,blocks,Block,,,R Concrete Gable 1m Half
+pouredRConcreteGable1mhalf,blocks,Block,,,Wet R Concrete Gable 1m Half
+concreteGable1mhalf,blocks,Block,,,Concrete Gable 1m Half
+pouredConcreteGable1mhalf,blocks,Block,,,Wet Concrete Gable 1m Half
+cobblestoneGable1mhalf,blocks,Block,,,Cobblestone Gable 1m Half
+rwoodGable1mhalf,blocks,Block,,,R Wood Gable 1m Half
+steelGable3quarterhalf,blocks,Block,,,Steel Gable 3/4 Half
+rConcreteGable3quarterhalf,blocks,Block,,,R Concrete Gable 3/4 Half
+pouredRConcreteGable3quarterhalf,blocks,Block,,,Wet R Concrete Gable 3/4 Half
+concreteGable3quarterhalf,blocks,Block,,,Concrete Gable 3/4 Half
+pouredConcreteGable3quarterhalf,blocks,Block,,,Wet Concrete Gable 3/4 Half
+cobblestoneGable3quarterhalf,blocks,Block,,,Cobblestone Gable 3/4 Half
+rwoodGable3quarterhalf,blocks,Block,,,R Wood Gable 3/4 Half
+steelGableInvertedRampHalf,blocks,Block,,,Steel Gable Inverted Ramp Half
+rConcreteGableInvertedRampHalf,blocks,Block,,,R Concrete Gable Inverted Ramp Half
+pouredRConcreteGableInvertedRampHalf,blocks,Block,,,Wet R Concrete Gable Inverted Ramp Half
+concreteGableInvertedRampHalf,blocks,Block,,,Concrete Gable Inverted Ramp Half
+pouredConcreteGableInvertedRampHalf,blocks,Block,,,Wet Concrete Gable Inverted Ramp Half
+cobblestoneGableInvertedRampHalf,blocks,Block,,,Cobblestone Gable Inverted Ramp Half
+rwoodGableInvertedRampHalf,blocks,Block,,,R Wood Gable Inverted Ramp Half
+steelGable3Quarter,blocks,Block,,,Steel Gable 3/4
+rConcreteGable3Quarter,blocks,Block,,,R Concrete Gable 3/4
+pouredRConcreteGable3Quarter,blocks,Block,,,Wet R Concrete Gable 3/4
+concreteGable3Quarter,blocks,Block,,,Concrete Gable 3/4
+pouredConcreteGable3Quarter,blocks,Block,,,Wet Concrete Gable 3/4
+cobblestoneGable3Quarter,blocks,Block,,,Cobblestone Gable 3/4
+rwoodGable3Quarter,blocks,Block,,,R Wood Gable 3/4
+steelGableInvertedQuarterHalf,blocks,Block,,,Steel Gable Inverted 1/4 Half
+rConcreteGableInvertedQuarterHalf,blocks,Block,,,R Concrete Gable Inverted 1/4 Half
+pouredRConcreteGableInvertedQuarterHalf,blocks,Block,,,Wet R Concrete Gable Inverted 1/4 Half
+concreteGableInvertedQuarterHalf,blocks,Block,,,Concrete Gable Inverted 1/4 Half
+pouredConcreteGableInvertedQuarterHalf,blocks,Block,,,Wet Concrete Gable Inverted 1/4 Half
+cobblestoneGableInvertedQuarterHalf,blocks,Block,,,Cobblestone Gable Inverted 1/4 Half
+rwoodGableInvertedQuarterHalf,blocks,Block,,,R Wood Gable Inverted 1/4 Half
+steelGablePyramid,blocks,Block,,,Steel Gable Pyramid
+rConcreteGablePyramid,blocks,Block,,,R Concrete Gable Pyramid
+pouredRConcreteGablePyramid,blocks,Block,,,Wet R Concrete Gable Pyramid
+concreteGablePyramid,blocks,Block,,,Concrete Gable Pyramid
+pouredConcreteGablePyramid,blocks,Block,,,Wet Concrete Gable Pyramid
+cobblestoneGablePyramid,blocks,Block,,,Cobblestone Gable Pyramid
+rwoodGablePyramid,blocks,Block,,,R Wood Gable Pyramid
+steelFloorJoist,blocks,Block,,,Steel Floor Joist
+rConcreteFloorJoist,blocks,Block,,,R Concrete Floor Joist
+pouredRConcreteFloorJoist,blocks,Block,,,Wet R Concrete Floor Joist
+concreteFloorJoist,blocks,Block,,,Concrete Floor Joist
+pouredConcreteFloorJoist,blocks,Block,,,Wet Concrete Floor Joist
+cobblestoneFloorJoist,blocks,Block,,,Cobblestone Floor Joist
+rwoodFloorJoist,blocks,Block,,,R Wood Floor Joist
+steelWindowTrim,blocks,Block,,,Steel Window Trim
+rConcreteWindowTrim,blocks,Block,,,R Concrete Window Trim
+pouredRConcreteWindowTrim,blocks,Block,,,Wet R Concrete Window Trim
+concreteWindowTrim,blocks,Block,,,Concrete Window Trim
+pouredConcreteWindowTrim,blocks,Block,,,Wet Concrete Window Trim
+cobblestoneWindowTrim,blocks,Block,,,Cobblestone Window Trim
+rwoodWindowTrim,blocks,Block,,,R Wood Window Trim
+steelWindowTrimBottom,blocks,Block,,,Steel Window Trim Bottom
+rConcreteWindowTrimBottom,blocks,Block,,,R Concrete Window Trim Bottom
+pouredRConcreteWindowTrimBottom,blocks,Block,,,Wet R Concrete Window Trim Bottom
+concreteWindowTrimBottom,blocks,Block,,,Concrete Window Trim Bottom
+pouredConcreteWindowTrimBottom,blocks,Block,,,Wet Concrete Window Trim Bottom
+cobblestoneWindowTrimBottom,blocks,Block,,,Cobblestone Window Trim Bottom
+rwoodWindowTrimBottom,blocks,Block,,,R Wood Window Trim Bottom
+steelWindowTrimTop,blocks,Block,,,Steel Window Trim Top
+rConcreteWindowTrimTop,blocks,Block,,,R Concrete Window Trim Top
+pouredRConcreteWindowTrimTop,blocks,Block,,,Wet R Concrete Window Trim Top
+concreteWindowTrimTop,blocks,Block,,,Concrete Window Trim Top
+pouredConcreteWindowTrimTop,blocks,Block,,,Wet Concrete Window Trim Top
+cobblestoneWindowTrimTop,blocks,Block,,,Cobblestone Window Trim Top
+rwoodWindowTrimTop,blocks,Block,,,R Wood Window Trim Top
+steelWindowTrimSides,blocks,Block,,,Steel Window Trim Sides
+rConcreteWindowTrimSides,blocks,Block,,,R Concrete Window Trim Sides
+pouredRConcreteWindowTrimSides,blocks,Block,,,Wet R Concrete Window Trim Sides
+concreteWindowTrimSides,blocks,Block,,,Concrete Window Trim Sides
+pouredConcreteWindowTrimSides,blocks,Block,,,Wet Concrete Window Trim Sides
+cobblestoneWindowTrimSides,blocks,Block,,,Cobblestone Window Trim Sides
+rwoodWindowTrimSides,blocks,Block,,,R Wood Window Trim Sides
+steelWindowTrimTopFancy,blocks,Block,,,Steel Window Trim Top Fancy
+rConcreteWindowTrimTopFancy,blocks,Block,,,R Concrete Window Trim Top Fancy
+pouredRConcreteWindowTrimTopFancy,blocks,Block,,,Wet R Concrete Window Trim Top Fancy
+concreteWindowTrimTopFancy,blocks,Block,,,Concrete Window Trim Top Fancy
+pouredConcreteWindowTrimTopFancy,blocks,Block,,,Wet Concrete Window Trim Top Fancy
+cobblestoneWindowTrimTopFancy,blocks,Block,,,Cobblestone Window Trim Top Fancy
+rwoodWindowTrimTopFancy,blocks,Block,,,R Wood Window Trim Top Fancy
+steelCrown,blocks,Block,,,Steel Crown
+rConcreteCrown,blocks,Block,,,R Concrete Crown
+pouredRConcreteCrown,blocks,Block,,,Wet R Concrete Crown
+concreteCrown,blocks,Block,,,Concrete Crown
+pouredConcreteCrown,blocks,Block,,,Wet Concrete Crown
+cobblestoneCrown,blocks,Block,,,Cobblestone Crown
+rwoodCrown,blocks,Block,,,R Wood Crown
+steelCrownInsideCorner,blocks,Block,,,Steel Crown
+rConcreteCrownInsideCorner,blocks,Block,,,R Concrete Crown Inside Corner
+pouredRConcreteCrownInsideCorner,blocks,Block,,,Wet R Concrete Crown Inside Corner
+concreteCrownInsideCorner,blocks,Block,,,Concrete Crown Inside Corner
+pouredConcreteCrownInsideCorner,blocks,Block,,,Wet Concrete Crown Inside Corner
+cobblestoneCrownInsideCorner,blocks,Block,,,Cobblestone Crown Inside Corner
+rwoodCrownInsideCorner,blocks,Block,,,R Wood Crown Inside Corner
+steelCTRQuarter,blocks,Block,,,Steel Quarter Center
+rConcreteCTRQuarter,blocks,Block,,,R Concrete Quarter Center
+pouredRConcreteCTRQuarter,blocks,Block,,,Wet R Concrete Quarter Center
+pouredConcreteCTRQuarter,blocks,Block,,,Wet Concrete Quarter Center
+cobblestoneCTRQuarter,blocks,Block,,,Cobblestone Quarter Center
+rwoodCTRQuarter,blocks,Block,,,R Wood Quarter Center
+cobblestoneQuarter,blocks,Block,,,Cobblestone Quarter Center
+rwoodQuarter,blocks,Block,,,R Wood Quarter Center
+steelCTRQuarterSquareTop,blocks,Block,,,Steel Quarter Center Square Top
+rConcreteCTRQuarterSquareTop,blocks,Block,,,R Concrete Quarter Center Square Top
+pouredRConcreteCTRQuarterSquareTop,blocks,Block,,,Wet R Concrete Quarter Center Square Top
+ConcreteCTRQuarterSquareTop,blocks,Block,,,Concrete Quarter Center Square Top
+pouredConcreteCTRQuarterSquareTop,blocks,Block,,,Wet Concrete Quarter Center Square Top
+cobblestoneCTRQuarterSquareTop,blocks,Block,,,Cobblestone Quarter Center Square Top
+rwoodCTRQuarterSquareTop,blocks,Block,,,R Wood Quarter Center Square Top
+steelPillar50CNR,blocks,Block,,,Steel Pillar 50 Corner
+rConcretePillar50CNR,blocks,Block,,,R Concrete Pillar 50 Corner
+pouredRConcretePillar50CNR,blocks,Block,,,Wet R Concrete Pillar 50 Corner
+ConcretePillar50CNR,blocks,Block,,,Concrete Pillar 50 Corner
+pouredConcretePillar50CNR,blocks,Block,,,Wet Concrete Pillar 50 Corner
+cobblestonePillar50CNR,blocks,Block,,,Cobblestone Pillar 50 Corner
+rwoodPillar50CNR,blocks,Block,,,R Wood Pillar 50 Corner
+steelPillar50CNRPlate,blocks,Block,,,Steel Pillar 50 Corner Plate
+rConcretePillar50CNRPlate,blocks,Block,,,R Concrete Pillar 50 Corner Plate
+pouredRConcretePillar50CNRPlate,blocks,Block,,,Wet R Concrete Pillar 50 Corner Plate
+ConcretePillar50CNRPlate,blocks,Block,,,Concrete Pillar 50 Corner Plate
+pouredConcretePillar50CNRPlate,blocks,Block,,,Wet Concrete Pillar 50 Corner Plate
+cobblestonePillar50CNRPlate,blocks,Block,,,Cobblestone Pillar 50 Corner Plate
+rwoodPillar50CNRPlate,blocks,Block,,,R Wood Pillar 50 Corner Plate
+steelPillar50SquareTop,blocks,Block,,,Steel Pillar 50 Square Top
+rConcretePillar50SquareTop,blocks,Block,,,R Concrete Pillar 50 Square Top
+pouredRConcretePillar50SquareTop,blocks,Block,,,Wet R Concrete Pillar 50 Square Top
+ConcretePillar50SquareTop,blocks,Block,,,Concrete Pillar 50 Square Top
+pouredConcretePillar50SquareTop,blocks,Block,,,Wet Concrete Pillar 50 Square Top
+cobblestonePillar50SquareTop,blocks,Block,,,Cobblestone Pillar 50 Square Top
+rwoodPillar50SquareTop,blocks,Block,,,R Wood Pillar 50 Square Top
+rScrapIronGableInvertedSteepHalf,blocks,Block,,,R Iron Gable Inverted Steep Half
+scrapIronGableInvertedSteepHalf,blocks,Block,,,Iron Gable Inverted Steep Half
+rScrapIronWedgeTipHalf1,blocks,Block,,,R Iron Wedge Tip Half 1
+scrapIronWedgeTipHalf1,blocks,Block,,,Iron Wedge Tip Half 1
+rScrapIronWedgeTipHalf2,blocks,Block,,,R Iron Wedge Tip Half 2
+scrapIronWedgeTipHalf2,blocks,Block,,,Iron Wedge Tip Half 2
+rScrapIronRampInclineHalf1,blocks,Block,,,R Iron Ramp Incline Half 1
+scrapIronRampInclineHalf1,blocks,Block,,,Iron Ramp Incline Half 1
+rScrapIronRampInclineHalf2,blocks,Block,,,R Iron Ramp Incline Half 2
+scrapIronRampInclineHalf2,blocks,Block,,,Iron Ramp Incline Half 2
+rScrapIronRampInclineFillerHalf1,blocks,Block,,,R Iron Ramp Incline Filler Half 1
+scrapIronRampInclineFillerHalf1,blocks,Block,,,Iron Ramp Incline Filler Half 1
+rScrapIronRampInclineFillerHalf2,blocks,Block,,,R Iron Ramp Incline Filler Half 2
+scrapIronRampInclineFillerHalf2,blocks,Block,,,Iron Ramp Incline Filler Half 2
+rScrapIronInclineTipHalf1,blocks,Block,,,R Iron Incline Tip Half 1
+scrapIronInclineTipHalf1,blocks,Block,,,Iron Incline Tip Half 1
+rScrapIronInclineTipHalf2,blocks,Block,,,R Iron Incline Tip Half 2
+scrapIronInclineTipHalf2,blocks,Block,,,Iron Incline Tip Half 2
+rScrapIronGableInvertedSteepHalf,blocks,Block,,,R Iron Gable Inverted Steep Half
+scrapIronGableInvertedSteepHalf,blocks,Block,,,Iron Gable Inverted Steep Half
+rScrapIronGable,blocks,Block,,,R Iron Gable
+scrapIronGable,blocks,Block,,,Iron Gable
+rScrapIronGable1m,blocks,Block,,,R Iron Gable 1m
+scrapIronGable1m,blocks,Block,,,Iron Gable 1m
+rScrapIronGableHalf,blocks,Block,,,R Iron Gable Half
+scrapIronGableHalf,blocks,Block,,,Iron Gable Half
+rScrapIronGablequarterhalf,blocks,Block,,,R Iron Gable 1/4 Half
+scrapIronGablequarterhalf,blocks,Block,,,Iron Gable 1/4 Half
+rScrapIronGable1mHalf,blocks,Block,,,R Iron Gable 1m Half
+scrapIronGable1mHalf,blocks,Block,,,Iron Gable 1m Half
+rScrapIronGable3quarterhalf,blocks,Block,,,R Iron Gable 3/4 Half
+scrapIronGable3quarterHalf,blocks,Block,,,Iron Gable 3/4 Half
+rScrapIronGableInvertedRampHalf,blocks,Block,,,R Iron Gable Inverted Ramp Half
+scrapIronGableInvertedRampHalf,blocks,Block,,,Iron Gable Inverted Ramp Half
+rScrapIronGableInvertedQuarterHalf,blocks,Block,,,R Iron Gable Inverted 1/4 Half
+scrapIronGableInvertedQuarterHalf,blocks,Block,,,Iron Gable Inverted 1/4 Half
+ammoBundle44MagnumBulletAP,items,Ammo,,,AP .44 Magnum Ammo (Box of 100)
+ammoBundle44MagnumBulletBall,items,Ammo,,,.44 Magnum Ammo (Box of 100)
+ammoBundle44MagnumBulletHP,items,Ammo,,,HP .44 Magnum Ammo (Box of 100)
+ammoBundle762mmBulletAP,items,Ammo,,,AP 7.62mm Ammo (Box of 100)
+ammoBundle762mmBulletBall,items,Ammo,,,7.62mm Ammo (Box of 100)
+ammoBundle762mmBulletHP,items,Ammo,,,HP 7.62mm Ammo (Box of 100)
+ammoBundle9mmBulletAP,items,Ammo,,,AP 9mm Ammo (Box of 100)
+ammoBundle9mmBulletBall,items,Ammo,,,9mm Ammo (Box of 100)
+ammoBundle9mmBulletHP,items,Ammo,,,HP 9mm Ammo (Box of 100)
+ammoBundleArrowExploding,items,Ammo,,,Exploding Arrows (Box of 75)
+ammoBundleArrowFlaming,items,Ammo,,,Flaming Arrows (Box of 100)
+ammoBundleArrowIron,items,Ammo,,,Iron Arrows (Box of 100)
+ammoBundleArrowSteelAP,items,Ammo,,,Steel Arrows (Box of 100)
+ammoBundleArrowStone,items,Ammo,,,Stone Arrows (Box of 100)
+ammoBundleBlunderbuss,items,Ammo,,,Blunderbuss Ammo (Box of 100)
+ammoBundleCrossbowBoltExploding,items,Ammo,,,Exploding Crossbow Bolts (Box of 75)
+ammoBundleCrossbowBoltFlaming,items,Ammo,,,Flaming Crossbow Bolts (Box of 100)
+ammoBundleCrossbowBoltIron,items,Ammo,,,Iron Crossbow Bolts (Box of 100)
+ammoBundleCrossbowBoltSteelAP,items,Ammo,,,Steel Crossbow Bolts (Box of 100)
+ammoBundleCrossbowBoltStone,items,Ammo,,,Stone Crossbow Bolts (Box of 100)
+ammoBundleShotgunBreachingSlug,items,Ammo,,,Shotgun Breaching Slugs (Box of 100)
+ammoBundleShotgunShell,items,Ammo,,,Shotgun Shells (Box of 100)
+ammoBundleShotgunSlug,items,Ammo,,,Shotgun AP Slugs (Box of 100)
+resourceClayLumpBundle,items,Item,,,Clay Soil (Stack of 6000)
+resourceClayLumpBundleDesc,items,Item,,,This is a compact stack of clay soil. Use this item to open and unpack it.

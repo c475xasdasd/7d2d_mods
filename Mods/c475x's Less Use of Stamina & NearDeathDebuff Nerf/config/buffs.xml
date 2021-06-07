@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<configs>
+	<!-- Change NearDeathDebuff to 1 minute -->
+	<set xpath="/buffs/buff[@name='buffNearDeathTrauma']/duration/@value">60</set>
+</configs>

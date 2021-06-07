@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<configs>
+	
+	<append xpath="/items/item[@name='gunJunkTurret']">
+		
+		<effect_group name="gunJunkTurret">
+			<passive_effect name="MaxRange" operation="base_set" value="60"/>
+
+			<passive_effect name="EntityDamage" operation="base_set" value="15"/>
+			<passive_effect name="MagazineSize" operation="base_set" value="500"/>
+			<passive_effect name="MagazineSize" operation="base_add" value="50,500" tier="2,6"/>
+			<passive_effect name="ReloadSpeedMultiplier" operation="base_set" value="2"/>
+
+			<passive_effect name="SpreadDegreesVertical" operation="base_set" value="5"/>
+			<passive_effect name="SpreadDegreesHorizontal" operation="base_set" value="5"/>
+			<passive_effect name="SpreadMultiplierAiming" operation="perc_add" value="-.13"/>
+			<passive_effect name="SpreadMultiplierCrouching" operation="perc_add" value="-.05"/>
+			<passive_effect name="SpreadMultiplierWalking" operation="perc_add" value=".15"/>
+			<passive_effect name="SpreadMultiplierRunning" operation="perc_add" value=".3"/>
+
+			<passive_effect name="KickDegreesVerticalMin" operation="base_set" value="3"/>
+			<passive_effect name="KickDegreesVerticalMax" operation="base_set" value="3"/>
+
+			<passive_effect name="KickDegreesHorizontalMin" operation="base_set" value="-2"/>
+			<passive_effect name="KickDegreesHorizontalMax" operation="base_set" value="2"/>
+
+			<passive_effect name="JunkTurretActiveRange" operation="base_set" value="60"/>
+			<passive_effect name="DegradationMax" operation="base_set" value="2500,6000" tier="1,6" tags="perkTurrets"/>
+		</effect_group>
+		
+	</append>
+
+</configs>
