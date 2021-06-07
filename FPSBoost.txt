@@ -1,0 +1,25 @@
+1. console commands
+
+gfx af (if 2gb vram)
+gfx af 0 (if 4gb vram)
+gfx dt
+
+2. launcher settings
+
+run game through the launcher and set:
+	- "Show this launcher on the next start" to true
+	- "Exclusive Fullscreen Mode" to true
+	- "Use EasyAntiCheat (EAC)" to false
+
+then click "Run & Save"
+next time you can just start game and you'll see the launcher, just click "Run" there
+
+3. .exe settings
+
+go to your game's installation folder
+right click on the game executables (7daystodie.exe, 7daystodieeac.exe)
+go to the compatibility
+check the "Remove fullscreen optimisation" option
+then click ok
+
+now you're good to go!
