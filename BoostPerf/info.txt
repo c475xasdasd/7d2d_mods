@@ -14,3 +14,5 @@ gfx pp enable 0 - disable post-processing
 sg OptionsFieldOfViewNew 90
 
 2. игруху через лаунчер в стиме запускать (еще офнуть еак потому что нахуй его)
+
+еще в лаунчере врубить exclusive fullscreen mode и show unity screen selector
