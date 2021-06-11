@@ -9,7 +9,7 @@
 
 			<texture depth="3" name="backgroundTexture" material="Materials/Transparent Colored" size="58,58" globalopacity="true"/>
 			
-			<sprite depth="4" name="itemIcon" width="45" height="45" atlas="ItemIconAtlas" sprite="{itemicon}" pos="25,-25" pivot="center" foregroundlayer="true" color="{iconcolor}" />
+			<sprite depth="4" name="itemIcon" width="57" height="57" atlas="ItemIconAtlas" sprite="{itemicon}" pos="29,-29" pivot="center" foregroundlayer="true" color="{iconcolor}" />
 			<sprite depth="8" name="lockTypeIcon" width="17" height="17" sprite="" pos="2,-2" foregroundlayer="true"/>
 			<sprite depth="8" name="itemtypeicon" width="24" height="24" sprite="ui_game_symbol_{itemtypeicon}" pos="2,-2" foregroundlayer="true" visible="{hasitemtypeicon}" color="{itemtypeicontint}" />
 			

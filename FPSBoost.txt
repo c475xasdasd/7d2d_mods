@@ -23,3 +23,5 @@ check the "Remove fullscreen optimisation" option
 then click ok
 
 now you're good to go!
+
+p.s if game isnt closing just spam LMB and Esc
