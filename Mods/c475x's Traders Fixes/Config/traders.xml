@@ -1,6 +1,6 @@
 <c475x>
-	<setattribute xpath="/traders" name="buy_markup">1.5</setattribute>
-	<setattribute xpath="/traders" name="sell_markdown">0.5</setattribute>
+	<setattribute xpath="/traders" name="buy_markup">1.25</setattribute>
+	<setattribute xpath="/traders" name="sell_markdown">0.35</setattribute>
 	
 	<set xpath="/traders/trader_info[@id='1']/@reset_interval">1</set>
 	<set xpath="/traders/trader_info[@id='1']/@max_inventory">160</set>
