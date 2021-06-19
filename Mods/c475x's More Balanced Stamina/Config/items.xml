@@ -1,16 +1,6 @@
 <c475x>
 	<set xpath="/items/item[@name='meleeClubWood']/effect_group[@name='Power Attack']/passive_effect[@name='StaminaLoss']/@value">13</set>
-	<set xpath="/items/item[@name='meleeClubIron']/effect_group[@name='Power Attack']/passive_effect[@name='StaminaLoss']/@value">13</set>
 	<set xpath="/items/item[@name='meleeToolKnifeMachete']/effect_group[@name='Power Attack']/passive_effect[@name='StaminaLoss']/@value">13</set>
-	<set xpath="/items/item[@name='meleeToolPickaxeIron']/effect_group[@name='Power Attack']/passive_effect[@name='StaminaLoss']/@value">13</set>
-	<set xpath="/items/item[@name='meleeToolPickaxeSteel']/effect_group[@name='Power Attack']/passive_effect[@name='StaminaLoss']/@value">13</set>
-	<set xpath="/items/item[@name='meleeToolShovelStone']/effect_group[@name='Power Attack']/passive_effect[@name='StaminaLoss']/@value">13</set>
-	<set xpath="/items/item[@name='meleeToolShovelIron']/effect_group[@name='Power Attack']/passive_effect[@name='StaminaLoss']/@value">13</set>
-	<set xpath="/items/item[@name='meleeToolShovelSteel']/effect_group[@name='Power Attack']/passive_effect[@name='StaminaLoss']/@value">13</set>
 	<set xpath="/items/item[@name='meleeToolSledgehammerStone']/effect_group[@name='Power Attack']/passive_effect[@name='StaminaLoss']/@value">13</set>
-	<set xpath="/items/item[@name='meleeToolSledgehammerIron']/effect_group[@name='Power Attack']/passive_effect[@name='StaminaLoss']/@value">13</set>
-	<set xpath="/items/item[@name='meleeToolSledgehammerSteel']/effect_group[@name='Power Attack']/passive_effect[@name='StaminaLoss']/@value">13</set>
-	<set xpath="/items/item[@name='meleeToolFireaxeIron']/effect_group[@name='Power Attack']/passive_effect[@name='StaminaLoss']/@value">13</set>
-	<set xpath="/items/item[@name='meleeToolFireaxeSteel']/effect_group[@name='Power Attack']/passive_effect[@name='StaminaLoss']/@value">13</set>
 	<set xpath="/items/item[@name='meleeHandPlayer']/effect_group[@name='Power Attack']/passive_effect[@name='StaminaLoss']/@value">10</set>
 </c475x>
