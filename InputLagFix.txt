@@ -1,0 +1,1 @@
+to fix input lag you just need to open the game launcher and set "Use native input module" to true

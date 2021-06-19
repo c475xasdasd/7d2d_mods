@@ -1,0 +1,9 @@
+<c475x>
+	<!-- [@name='playerMale'] -->
+
+	<set xpath="/entity_classes/effect_group/passive_effect[@name='StaminaMax'][@operation='base_set'][@value='100']/@value">200</set>
+	<set xpath="/entity_classes/effect_group/passive_effect[@name='StaminaChangeOT']/@value">20</set>
+	
+	<set xpath="/entity_classes/effect_group/passive_effect[@name='StaminaMax']/@value">200</set>
+	<set xpath="/entity_classes/effect_group/passive_effect[@name='StaminaChangeOT']/@value">20</set>
+</c475x>

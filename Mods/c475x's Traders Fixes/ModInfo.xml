@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <xml>
 	<ModInfo>
-		<Name value="Daily Refresh Traders" />
-		<Description value="Every day Traders will be refreshed merchandise." />
-		<Author value="Akina" />
+		<Name value="Traders fixes" />
+		<Description value="Traders fixes." />
+		<Author value="c475x" />
 		<Version value="1.0" />
 	</ModInfo>
 </xml>
