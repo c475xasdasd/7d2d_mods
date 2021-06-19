@@ -1,7 +1,10 @@
-<configs>
+<c475x>
+	<setattribute xpath="/traders" name="buy_markup">1.5</setattribute>
+	<setattribute xpath="/traders" name="sell_markup">0.5</setattribute>
+	
 	<set xpath="/traders/trader_info[@id='1']/@reset_interval">1</set>
 	<set xpath="/traders/trader_info[@id='1']/@max_inventory">160</set>
 	<set xpath="/traders/trader_info[@id='1']/@max_items_swapped">80</set>
 	<set xpath="/traders/trader_info[@id='1']/@open_time">1:10</set>
 	<set xpath="/traders/trader_info[@id='1']/@close_time">1:00</set>
-</configs>
+</c475x>
