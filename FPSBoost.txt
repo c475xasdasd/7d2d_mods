@@ -10,6 +10,7 @@ run game through the launcher and set:
 	- "Show this launcher on the next start" to true
 	- "Exclusive Fullscreen Mode" to true
 	- "Use EasyAntiCheat (EAC)" to false
+	- "Show Unity screen selector" to true
 
 then click "Run & Save"
 next time you can just start game and you'll see the launcher, just click "Run" there

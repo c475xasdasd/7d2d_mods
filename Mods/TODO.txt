@@ -1,2 +1,1 @@
-- less use of stamina
 - research table
