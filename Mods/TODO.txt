@@ -1,1 +1,3 @@
 - research table
+- make player move faster in water
+- color correction settings?
