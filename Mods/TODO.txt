@@ -1,3 +1,6 @@
 - research table
 - make player move faster in water
 - color correction settings?
+- make player move faster always
+- some game mechanics fixes (idk)
+- mods to make game NOT such boring
