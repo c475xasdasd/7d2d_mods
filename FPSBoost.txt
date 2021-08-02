@@ -1,4 +1,4 @@
-1. console commands
+1. console commands (use them always when you started your world)
 
 gfx af (if 2gb vram)
 gfx af 0 (if 4gb vram)
