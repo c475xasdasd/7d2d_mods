@@ -4,6 +4,8 @@ gfx af (if 2gb vram)
 gfx af 0 (if 4gb vram)
 gfx dt
 
+use f8 to check your fps
+
 2. launcher settings
 
 run game through the launcher and set:
