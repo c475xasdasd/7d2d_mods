@@ -1,0 +1,4 @@
+to convert your valorant sens to 7d2d you need to divide your valorant sens by 7,142857142857143
+to convert your csgo sens to 7d2d you need to divide your csgo sens by 22,72727272727273
+
+then press f1 in game and paste: sg OptionsMouseSensitivity YOUR_SENSITIVITY
